@@ -4,7 +4,6 @@ public class Ejercicio35 {
 	private static Scanner in;
 public static void main(String[] args) {
 	int num = 0;
-	int sum =0;
 	int count=0;
 	System.out.println("Introduce el número: ");
 	in = new Scanner(System.in);
